@@ -1,0 +1,42 @@
+body {
+  font-size: 20px;
+  font-family: 'Lobster Two', cursive;
+  line-height: 1.5;
+  color: white;
+  background: url('../images/8-jacki-potorke.jpg');
+  /* Full Page Background Receipe */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.container {
+  width: 500px;
+  margin: 40px;
+  background: rgba(0,0,0,0.7);
+  padding: 10px;
+  border-radius: 40px;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: 'Yellowtail', cursive;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+a {
+  text-decoration: none;
+  color: #D4CC90;
+}
+
+iframe.video {
+  position: relative;
+  left: 650px;
+  padding: 5px;
+}
+
+
+
